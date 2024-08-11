@@ -10,7 +10,7 @@ const tones = Array.from({ length: 10 }).reduce((obj, val, index) => {
       ...obj
     };
     return obj;
-}, {});
+}, {}); // asdasd
 
 module.exports = {
     important: true,
