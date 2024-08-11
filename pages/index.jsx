@@ -84,11 +84,11 @@ Vote Arox</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://media.discordapp.net/attachments/1107706931503710318/1271370011390378037/image.png?ex=66b71717&is=66b5c597&hm=3c2cbfbb2baba7fcaaf5376a0e3553cbc54c2e45389627b2d1657a4c9798a800&=&format=webp&quality=lossless&width=1230&height=670"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="img/footerp.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to break the bank with the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/1107706931503710318/1271370011390378037/image.png?ex=66b71717&is=66b5c597&hm=3c2cbfbb2baba7fcaaf5376a0e3553cbc54c2e45389627b2d1657a4c9798a800&=&format=webp&quality=lossless&width=1230&height=670" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="img/footerp.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
