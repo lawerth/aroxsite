@@ -2,7 +2,7 @@ export default function Privacy() {
 
     return (
             <div>
-             <h2 className="mt-4 text-white font-bold text-3xl">Terms of Services</h2>
+             <h2 className="mt-4 text-white font-bold text-3xl">Privacy Policy</h2>
               <p className="text-sm text-white/30 mb-1">Last Update: 11/08/2024</p>
           <div className="animateHeader text-white text-opacity-40 mt-5">
               <h3>1. Introduction</h3>
