@@ -91,9 +91,6 @@ export default function Footer() {
                                     Bot Online
                                 </p>
                         </div>
-                        <p display="none" className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Nodesty ❤️"}
-                        </p>
                     </div>
                 </div>
             </footer>
