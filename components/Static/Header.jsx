@@ -21,7 +21,7 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
                             <img
                                 width="64"
                                 className="rounded-full icon-glow"
-                                src="/img/logo.jpg"
+                                src="/img/logo.png"
                             />
                             <p className=" font-extrabold ml-1 text-2xl">
                                 Arox
